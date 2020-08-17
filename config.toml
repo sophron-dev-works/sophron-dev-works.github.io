@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://github.com/sophron-dev-works/sophron-dev-works.github.io"
+baseURL = "https://sophron-dev-works.github.io"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
