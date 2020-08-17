@@ -1,0 +1,6 @@
+[submodule "liva-hugo"]
+	path = liva-hugo
+	url = https://github.com/themefisher/liva-hugo.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
