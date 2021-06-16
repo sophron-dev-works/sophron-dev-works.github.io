@@ -1,5 +1,3 @@
 ---
-title: "Blog"
-description: "This is meta description."
-draft: false
+title: Recents Article
 ---
