@@ -1,13 +1,12 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+# topTitle: Hello, I am Natasha
 content: >
-  # I am here for your personal business
+  # We Build Damn Good Products
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  We believe baburao is the shiz. Don't even get me started about Hera pheri!
+buttonName: Contact us
 buttonURL: contact
 image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+# videoThumb: images/hero/popup-thumb.png
+# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
